@@ -2,6 +2,7 @@ LICENSE
 README.md
 pyproject.toml
 bot/__init__.py
+bot/analytics.py
 bot/config.py
 bot/db.py
 bot/keyboards.py
@@ -14,5 +15,6 @@ hardcoding_telegram_bot_starter.egg-info/SOURCES.txt
 hardcoding_telegram_bot_starter.egg-info/dependency_links.txt
 hardcoding_telegram_bot_starter.egg-info/requires.txt
 hardcoding_telegram_bot_starter.egg-info/top_level.txt
+tests/test_analytics.py
 tests/test_config.py
 tests/test_keyboard.py
